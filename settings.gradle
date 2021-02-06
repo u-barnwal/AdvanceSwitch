@@ -1,0 +1,3 @@
+include ':AdvanceSwitch'
+include ':app'
+rootProject.name = "AdvanceSwitchLibrary"
